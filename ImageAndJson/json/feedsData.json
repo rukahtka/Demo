@@ -1,0 +1,271 @@
+[{
+        "id": 1,
+        "title": "History Of India",
+        "category": "Sports",
+        "textInfo": "There is a consensus of expert opinion that cricket may have been invented during Saxon or Norman times by children living in the Weald, an area of dense woodlands and clearings in south-east England. The first reference to cricket being played as an adult sport was in 1611, and in the same year, a dictionary defined cricket as a boys' game. There is also the thought that cricket may have derived from bowls, by the intervention of a batsman trying to stop the ball from reaching its target by hitting it away.\nIn the first half of the 18th Century cricket established itself as a leading sport in London and the south-eastern counties of England. Its spread was limited by the constraints of travel, but it was slowly gaining popularity in other parts of England and Women’s Cricket dates back to the 1745, when the first known match was played in Surrey.\nIn 1744, the first Laws of Cricket were written and subsequently amended in 1774, when innovations such as lbw, a 3rd stump, - the middle stump and a maximum bat width were added. The codes were drawn up by the “Star and Garter Club” whose members ultimately founded the famous Marylebone Cricket Club at Lord's in 1787. MCC immediately became the custodian of the Laws and has made revisions ever since then to the current day.",
+        "imageUrl": "https://raw.githubusercontent.com/rukahtka/Demo/main/ImageAndJson/images/history_of_cricket.jpg?raw=true",
+        "sourceUrl": "https://www.icc-cricket.com/about/cricket/history-of-cricket/early-cricket",
+        "subCategory": "Cricket",
+        "isSubCategory": true
+    },
+    {
+        "id": 2,
+        "title": "Cricket in India",
+        "category": "Sports",
+        "textInfo": "It was sometime in 1721 that a British ship dropped anchor off the coast of Kutch in western India. The recreational activities the sailors indulged in on the coast elicited curious reactions from onlookers. One of the sailors, who answered to the name of Downing, recalled his time on the Kutch coast in his memoirs thus: \"We everyday diverted ourselves with playing cricket and other exercises\"\n This is the earliest recorded reference to cricket in India.\nAs the merchants metamorphosed into rulers, they continued to demonstrate their recreational pursuits on Indian soil. The British army took on the English settlers in what was the first recorded cricket match in India in 1751.\nThe establishment of the Calcutta Cricket Club (what we know today as CC & FC) in 1792, was another watershed for the sport in the land. In fact, it is the second-oldest cricket club in the world, after the MCC (1787).",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/history_of_india_cricket.jpeg?raw=true",
+        "sourceUrl": "https://www.bcci.tv/about",
+        "subCategory": "Cricket",
+        "isSubCategory": true
+    },
+    {
+        "id": 3,
+        "title": "The first cricket ball was made of wool",
+        "category": "Sports",
+        "textInfo": "Although no one knows for sure how cricket started, it thought that it was invented by shepherds, who came up with the idea as a way to pass the time whilst guarding their sheep. Our first fact about cricket is that the first cricket ball was most likely a ball of rolled up wool – so today’s bowling speeds were most likely unachievable.\nThe first official mention of cricket in England was in 1597, when a court case relating to the ownership of a plot of land referred to the game of “creckett”. It was to be several centuries before international cricket came about though, with the first official test match taking place in 1877. It pitted England against Australia at the iconic Melbourne Cricket Ground, with the Aussies taking the win.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/first_cricket_ball_made_of_wool.jpg?raw=true",
+        "sourceUrl": "https://dayoutinengland.com/facts-about-cricket-in-england/",
+        "subCategory": "Cricket",
+        "isSubCategory": true
+    },
+    {
+        "id": 4,
+        "title": "The longest cricket match was 14 days long",
+        "category": "Sports",
+        "textInfo": "It’s often joked in England that cricket goes on for far too long, with games often lasting for hours, especially with frequent breaks thanks to the indecisive British weather (cricket can’t be played in the rain or strong wind). But the longest ever cricket match was played in 1939, in a contest between England and South Africa. Forget hours, this match lasted a ridiculous 14 days.\nAnd even then the game had to be declared as a draw before it was finished, because the English ship was due to leave to take the team back home.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/longest_cricket_math_14_days.jpg?raw=true",
+        "sourceUrl": "https://dayoutinengland.com/facts-about-cricket-in-england/",
+        "subCategory": "Cricket",
+        "isSubCategory": true
+    },
+    {
+        "id": 5,
+        "title": "Cricket is the second most popular sport in the world",
+        "category": "Sports",
+        "textInfo": "Cricket has grown and grown since its inception in the 16th century. It’s now enjoyed in over 180 countries around the world, with approximately 2.5 billion fans watching or playing the sport. How crazy are those numbers!?\nIt’s most popular in India and Pakistan, though England and Australia have two of the most famous teams.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/cricket_second_most_popular_sport.jpg?raw=true",
+        "sourceUrl": "https://www.funfactsabout.com/fun-facts-about-cricket/",
+        "subCategory": "Cricket",
+        "isSubCategory": true
+    },
+    {
+        "id": 6,
+        "title": "History of Formula 1",
+        "category": "Sports",
+        "textInfo": "The modern era of Formula One began in 1950, but the roots of Grand Prix racing are far earlier, tracing to the pioneering road races in France in the 1890s, through the Edwardian years, the bleak twenties, the German domination of the 1930s and the early post-war years of Italian supremacy.\nRegarded as the first motor race proper was a 1,200 km road race from Paris to Bordeaux and back in 1895, won by Émile Levassor with his Panhard et Levassor in 48 hours. One of the most successful drivers of the early year was Fernand Charron, who won the Paris-Bordeaux race in 1899, also in a Panhard, at the blazing average speed of 29.9 mph.\nThe first race using the appellation “Grand Prix” was 1901’s French Grand Prix at Le Mans, won by Ferencz Szisz with a Renault, who covered the 700 miles at 63.0 mph.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/history_formula_1.jpg?raw=true",
+        "sourceUrl": "http://www.f1-grandprix.com/?page_id=222",
+        "subCategory": "Formula 1",
+        "isSubCategory": true
+    },
+    {
+        "id": 7,
+        "title": "History of Ferrari",
+        "category": "Sports",
+        "textInfo": "Scuderia Ferrari was founded by Enzo Ferrari in 1929 to enter amateur drivers in various races. However, Ferrari himself had raced in CMN (Costruzioni Meccaniche Nazionali) and Alfa Romeo cars before that date. The idea came about on the night of 16 November at a dinner in Bologna, where Ferrari solicited financial help from textile heirs Augusto and Alfredo Caniato and wealthy amateur racer Mario Tadini. He then gathered a team which at its peak included over forty drivers, most of whom raced in various Alfa Romeo 8C cars; Ferrari himself continued racing, with moderate success, until the birth of his first son Dino in 1932. The well-known prancing horse blazon first appeared at the 1932 Spa 24 Hours in Belgium on a two-car team of Alfa Romeo 8C 2300 Spiders, which finished first and second.\nIn 1933 Alfa Romeo experienced economic difficulties and withdrew its in-house team from racing. From then, the Scuderia Ferrari became the acting racing team of Alfa Romeo when the factory released to the Scuderia the up-to-date Monoposto Tipo B racers. In 1935 Enzo Ferrari and Luigi Bazzi built the Alfa Romeo Bimotore, the first car to wear a Ferrari badge on the radiator cowl.\nIn the winter of 1939–1940, Ferrari started work on a racecar of his own, the Tipo 815 (eight cylinders, 1.5 L displacement). The 815s, designed by Alberto Massimino, were thus the first true Ferrari cars, but after Alberto Ascari and the Marchese Lotario Rangoni Machiavelli di Modena drove them in the 1940 Mille Miglia, World War II put a temporary end to racing and the 815s saw no more competition.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/ferrari_history.png?raw=true",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "subCategory": "Formula 1",
+        "isSubCategory": true
+    },
+    {
+        "id": 8,
+        "title": "F1 Cars Have 80k Components",
+        "category": "Sports",
+        "textInfo": "Engineers assemble 80,000 components for just one car. Take note that all of these components are important to perform well during the race.\nThis is why it must be properly placed and assembled. It takes time to finalize the parts to be put in an F1 car and test their efficiency.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/f1_car_80k_component.jpg?raw=true",
+        "sourceUrl": "https://xsportnet.com/fun-facts-that-few-people-know-about-formula-1/",
+        "subCategory": "Formula 1",
+        "isSubCategory": true
+    },
+    {
+        "id": 9,
+        "title": "F1 Drivers Lose Weight During Race",
+        "category": "Sports",
+        "textInfo": "F1 cars are hot; literally, F1 drivers are exposed to this high level of heat during a competition. You also have to take note that cockpits in the race track are heated as well.\nWith this immense heat, F1 drivers lose an average of 4kgs in a single match.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/f1_drivers_lose_weight.jpg?raw=true",
+        "sourceUrl": "https://xsportnet.com/fun-facts-that-few-people-know-about-formula-1/",
+        "subCategory": "Formula 1",
+        "isSubCategory": true
+    },
+    {
+        "id": 10,
+        "title": "History of Baseball",
+        "category": "Sports",
+        "textInfo": "References to games resembling baseball in the United States date back to the 18th century. Its most direct ancestors appear to be two English games: rounders (a children’s game brought to New England by the earliest colonists) and cricket.\nIn September 1845, a group of New York City men founded the New York Knickerbocker Baseball Club. One of them—volunteer firefighter and bank clerk Alexander Joy Cartwright—would codify a new set of rules that would form the basis for modern baseball, calling for a diamond-shaped infield, foul lines and the three-strike rule. He also abolished the dangerous practice of tagging runners by throwing balls at them.\nCartwright’s changes made the burgeoning pastime faster-paced and more challenging while clearly differentiating it from older games like cricket. In 1846, the Knickerbockers played the first official game of baseball against a team of cricket players, beginning a new, uniquely American tradition.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/history_of_baseball.jpeg?raw=true",
+        "sourceUrl": "https://www.history.com/news/who-invented-baseball",
+        "subCategory": "Baseball",
+        "isSubCategory": true
+    },
+    {
+        "id": 11,
+        "title": "History of New York Yankees",
+        "category": "Sports",
+        "textInfo": "The franchise began in 1901 in Baltimore, Maryland, competing as the Orioles in the AL for two seasons. The struggling Baltimore team was bought by Frank Farrell and Bill Devery in 1903 and taken to New York, initially to Hilltop Park (1903–12), one of Manhattan’s highest points, which led to the name New York Highlanders. Local sportswriters often referred to the team as “Yankees” or “Yanks,” because the team was in the American League. After the club moved to the Polo Grounds in 1913, the name Highlanders fell further into disuse, and the team was officially renamed the Yankees.\nThe team was not a regular pennant contender during its first 18 years in New York. Its fortunes changed completely in 1920, however, with the acquisition of Ruth from the Red Sox for cash and a loan against Boston’s Fenway Park—the most famous sale in baseball history. With the superstar pitcher-turned-outfielder leading the charge, the Yankees dynasty began to take shape during his second season with the team. It won three consecutive AL championships and the team’s first World Series title (1923).",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/history_of_new_york_yankees.jpeg?raw=true",
+        "sourceUrl": "https://www.britannica.com/topic/New-York-Yankees",
+        "subCategory": "Baseball",
+        "isSubCategory": true
+    },
+    {
+        "id": 12,
+        "title": "What is the oldest known piece of music?",
+        "category": "Music",
+        "textInfo": "The history of music is as old as humanity itself. Archaeologists have found primitive flutes made of bone and ivory dating back as far as 43,000 years, and it’s likely that many ancient musical styles have been preserved in oral traditions.\nWhen it comes to specific songs, however, the oldest known examples are relatively more recent. The earliest fragment of musical notation is found on a 4,000-year-old Sumerian clay tablet, which includes instructions and tunings for a hymn honoring the ruler Lipit-Ishtar. But for the title of oldest extant song, most historians point to “Hurrian Hymn No. 6,” an ode to the goddess Nikkal that was composed in cuneiform by the ancient Hurrians sometime around the 14th century B.C.\n“Hurrian Hymn No. 6” is considered the world’s earliest melody, but the oldest musical composition to have survived in its entirety is a first century A.D. Greek tune known as the “Seikilos Epitaph.” The song was found engraved on an ancient marble column used to mark a woman’s gravesite in Turkey. “I am a tombstone, an image,” reads an inscription. Seikilos placed me here as an everlasting sign of deathless remembrance.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/oldest_peice_of_music.jpeg?raw=true",
+        "sourceUrl": "https://www.history.com/news/what-is-the-oldest-known-piece-of-music",
+        "subCategory": "",
+        "isSubCategory": false
+    },
+    {
+        "id": 13,
+        "title": "Opera history",
+        "category": "Music",
+        "textInfo": "Opera originated in Italy at the end of the 16th century (with Jacopo Peri's mostly lost Dafne, produced in Florence in 1598) especially from works by Claudio Monteverdi, notably L'Orfeo, and soon spread through the rest of Europe Dafne by Jacopo Peri was the earliest composition considered opera, as understood today. It was written around 1597, largely under the inspiration of an elite circle of literate Florentine humanists who gathered as the Camerata de Bardi.\nA later work by Peri, Euridice, dating from 1600, is the first opera score to have survived until the present day. However, the honour of being the first opera still to be regularly performed goes to Claudio Monteverdi's L'Orfeo, composed for the court of Mantua in 1607.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/history_of_opera.jpg?raw=true",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Opera",
+        "subCategory": "",
+        "isSubCategory": false
+    },
+    {
+        "id": 14,
+        "title": "Rock Music",
+        "category": "Music",
+        "textInfo": "The history of rock music has been volatile and unpredictable as the genre has constantly redefined and reinvented itself since its emergence in the late 1940s.\nRock’s origins can be traced to the late 1940s, when the popular styles of the day, country music and blues, morphed into a new sound aided by electric guitars and a steady drumbeat. Pioneering rock artists of the 1950s such as Chuck Berry leaned heavily on classic blues structures while demonstrating a flair as natural-born entertainers.\nAs the '80s began, mainstream rock was losing commercial steam, its sound growing stale. In such a creatively stagnant environment, subgenres started to assert their dominance.\nInspired by punk’s outsider status and industrial’s eclectic instrumentation, keyboard-driven English bands such as Depeche Mode demonstrated a more introverted songwriting style, creating post-punk, also described as new wave.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/history_of_rock_music.jpeg?raw=true",
+        "sourceUrl": "https://www.liveabout.com/what-is-rock-music-2898293",
+        "subCategory": "",
+        "isSubCategory": false
+    },
+    {
+        "id": 15,
+        "title": "Ancient India",
+        "category": "Countries",
+        "textInfo": "By 55,000 years ago, the first modern humans, or Homo sapiens, had arrived on the Indian subcontinent from Africa, where they had earlier evolved. The earliest known modern human remains in South Asia date to about 30,000 years ago.\nDuring the period 2000–500 BCE, many regions of the subcontinent transitioned from the Chalcolithic cultures to the Iron Age ones. The Vedas, the oldest scriptures associated with Hinduism, were composed during this period, and historians have analysed these to posit a Vedic culture in the Punjab region and the upper Gangetic Plain. Most historians also consider this period to have encompassed several waves of Indo-Aryan migration into the subcontinent from the north-west.\nIn the late Vedic period, around the 6th century BCE, the small states and chiefdoms of the Ganges Plain and the north-western regions had consolidated into 16 major oligarchies and monarchies that were known as the mahajanapadas. The emerging urbanisation gave rise to non-Vedic religious movements, two of which became independent religions. Jainism came into prominence during the life of its exemplar, Mahavira. Buddhism, based on the teachings of Gautama Buddha, attracted followers from all social classes excepting the middle class; chronicling the life of the Buddha was central to the beginnings of recorded history in India.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/history_of_ancient_india.jpeg?raw=true",
+        "sourceUrl": "https://en.wikipedia.org/wiki/India",
+        "subCategory": "",
+        "isSubCategory": false
+    },
+    {
+        "id": 16,
+        "title": "Medieval India",
+        "category": "Countries",
+        "textInfo": "The Indian early medieval age, from 600 to 1200 CE, is defined by regional kingdoms and cultural diversity. When Harsha of Kannauj, who ruled much of the Indo-Gangetic Plain from 606 to 647 CE, attempted to expand southwards, he was defeated by the Chalukya ruler of the Deccan. When his successor attempted to expand eastwards, he was defeated by the Pala king of Bengal. When the Chalukyas attempted to expand southwards, they were defeated by the Pallavas from farther south, who in turn were opposed by the Pandyas and the Cholas from still farther south.\nIn the 6th and 7th centuries, the first devotional hymns were created in the Tamil language.They were imitated all over India and led to both the resurgence of Hinduism and the development of all modern languages of the subcontinent.Indian royalty, big and small, and the temples they patronised drew citizens in great numbers to the capital cities, which became economic hubs as well. Temple towns of various sizes began to appear everywhere as India underwent another urbanisation.\nBy the 8th and 9th centuries, the effects were felt in South-East Asia, as South Indian culture and political systems were exported to lands that became part of modern-day Myanmar, Thailand, Laos, Brunei, Cambodia, Vietnam, Philippines, Malaysia, and Indonesia.Indian merchants, scholars, and sometimes armies were involved in this transmission; South-East Asians took the initiative as well, with many sojourning in Indian seminaries and translating Buddhist and Hindu texts into their languages.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/history_of_medieval_india.jpg?raw=true",
+        "sourceUrl": "https://en.wikipedia.org/wiki/India",
+        "subCategory": "",
+        "isSubCategory": false
+    },
+    {
+        "id": 17,
+        "title": "Early Modern India",
+        "category": "Countries",
+        "textInfo": "In the early 16th century, northern India, then under mainly Muslim rulers, fell again to the superior mobility and firepower of a new generation of Central Asian warriors. The resulting Mughal Empire did not stamp out the local societies it came to rule. Instead, it balanced and pacified them through new administrative practices and diverse and inclusive ruling elites, leading to more systematic, centralised, and uniform rule.\n By the early 18th century, with the lines between commercial and political dominance being increasingly blurred, a number of European trading companies, including the English East India Company, had established coastal outposts.The East India Company's control of the seas, greater resources, and more advanced military training and technology led it to increasingly assert its military strength and caused it to become attractive to a portion of the Indian elite; these factors were crucial in allowing the company to gain control over the Bengal region by 1765 and sideline the other European companies.\nBy this time, with its economic power severely curtailed by the British parliament and having effectively been made an arm of British administration, the East India Company began more consciously to enter non-economic arenas, including education, social reform and culture.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/early_modern_india.jpg?raw=true",
+        "sourceUrl": "https://en.wikipedia.org/wiki/India",
+        "subCategory": "",
+        "isSubCategory": false
+    },
+    {
+        "id": 18,
+        "title": "Modern India",
+        "category": "Countries",
+        "textInfo": "Historians consider India's modern age to have begun sometime between 1848 and 1885. The appointment in 1848 of Lord Dalhousie as Governor General of the East India Company set the stage for changes essential to a modern state. These included the consolidation and demarcation of sovereignty, the surveillance of the population, and the education of citizens. Technological changes—among them, railways, canals, and the telegraph—were introduced not long after their introduction in Europe.\nFed by diverse resentments and perceptions, including invasive British-style social reforms, harsh land taxes, and summary treatment of some rich landowners and princes, the rebellion rocked many regions of northern and central India and shook the foundations of Company rule. Although the rebellion was suppressed by 1858, it led to the dissolution of the East India Company and the direct administration of India by the British government.\nThe rush of technology and the commercialisation of agriculture in the second half of the 19th century was marked by economic setbacks and many small farmers became dependent on the whims of far-away markets. There was an increase in the number of large-scale famines, and, despite the risks of infrastructure development borne by Indian taxpayers, little industrial employment was generated for Indians.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/modern_india.jpg?raw=true",
+        "sourceUrl": "https://en.wikipedia.org/wiki/India",
+        "subCategory": "",
+        "isSubCategory": false
+    },
+    {
+        "id": 19,
+        "title": "History of United States",
+        "category": "Countries",
+        "textInfo": "The history of the lands that became the United States began with the arrival of the first people in the Americas around 15,000 BC. Numerous indigenous cultures formed, and many saw transformations in the 16th century away from more densely populated lifestyles and towards reorganized polities elsewhere. The European colonization of the Americas began in the late 15th century, however most colonies in what would later become the United States were settled after 1600. By the 1760s, the thirteen British colonies contained 2.5 million people and were established along the Atlantic Coast east of the Appalachian Mountains.\nIn 1776, in Philadelphia, the Second Continental Congress declared the independence of the colonies as the United States. Led by General George Washington, it won the Revolutionary War. The peace treaty of 1783 established the borders of the new nation. The Articles of Confederation established a central government, but it was ineffectual at providing stability as it could not collect taxes and had no executive officer. A convention wrote a new Constitution that was adopted in 1789 and a Bill of Rights was added in 1791 to guarantee inalienable rights. With Washington as the first president and Alexander Hamilton his chief adviser, a strong central government was created. Purchase of the Louisiana Territory from France in 1803 doubled the size of the United States.\nThe United States became the world's leading industrial power at the turn of the 20th century, due to an outburst of entrepreneurship and industrialization and the arrival of millions of immigrant workers and farmers. A national railroad network was completed and large-scale mines and factories were established.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/history_of_united_states.jpg?raw=true",
+        "sourceUrl": "https://en.wikipedia.org/wiki/History_of_the_United_States",
+        "subCategory": "",
+        "isSubCategory": false
+    },
+    {
+        "id": 20,
+        "title": "Prehistory of England",
+        "category": "Countries",
+        "textInfo": "The earliest known evidence of human presence in the area now known as England was that of Homo antecessor, dating to approximately 780,000 years ago. The oldest proto-human bones discovered in England date from 500,000 years ago. Modern humans are known to have inhabited the area during the Upper Paleolithic period, though permanent settlements were only established within the last 6,000 years.\nThe Beaker culture arrived around 2,500 BC, introducing drinking and food vessels constructed from clay, as well as vessels used as reduction pots to smelt copper ores. It was during this time that major Neolithic monuments such as Stonehenge and Avebury were constructed. By heating together tin and copper, which were in abundance in the area, the Beaker culture people made bronze, and later iron from iron ores.\nDuring the Iron Age, Celtic culture, deriving from the Hallstatt and La Tène cultures, arrived from Central Europe. Brythonic was the spoken language during this time. Society was tribal; according to Ptolemy's Geographia there were around 20 tribes in the area. Earlier divisions are unknown because the Britons were not literate. Like other regions on the edge of the Empire, Britain had long enjoyed trading links with the Romans.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/history_of_united_states.jpg?raw=true",
+        "sourceUrl": "https://en.wikipedia.org/wiki/England",
+        "subCategory": "",
+        "isSubCategory": false
+    },
+    {
+        "id": 21,
+        "title": "England in the Middle Ages",
+        "category": "Countries",
+        "textInfo": "Roman military withdrawals left Britain open to invasion by pagan, seafaring warriors from north-western continental Europe, chiefly the Saxons, Angles, Jutes and Frisians who had long raided the coasts of the Roman province. These groups then began to settle in increasing numbers over the course of the fifth and sixth centuries, initially in the eastern part of the country. Their advance was contained for some decades after the Britons' victory at the Battle of Mount Badon, but subsequently resumed, overrunning the fertile lowlands of Britain and reducing the area under Brittonic control to a series of separate enclaves in the more rugged country to the west by the end of the 6th century.\nDuring the settlement period the lands ruled by the incomers seem to have been fragmented into numerous tribal territories, but by the 7th century, when substantial evidence of the situation again becomes available, these had coalesced into roughly a dozen kingdoms including Northumbria, Mercia, Wessex, East Anglia, Essex, Kent and Sussex. Over the following centuries, this process of political consolidation continued. The 7th century saw a struggle for hegemony between Northumbria and Mercia, which in the 8th century gave way to Mercian preeminence.\nDuring the 14th century, the Plantagenets and the House of Valois both claimed to be legitimate claimants to the House of Capet and with it France; the two powers clashed in the Hundred Years' War. The Black Death epidemic hit England; starting in 1348, it eventually killed up to half of England's inhabitants. From 1453 to 1487 civil war occurred between two branches of the royal family – the Yorkists and Lancastrians – known as the Wars of the Roses.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/england_in_middle_ages.jpeg?raw=true",
+        "sourceUrl": "https://en.wikipedia.org/wiki/England",
+        "subCategory": "",
+        "isSubCategory": false
+    },
+    {
+        "id": 22,
+        "title": "England in Early Modern Era",
+        "category": "Countries",
+        "textInfo": "During the Tudor period, the Renaissance reached England through Italian courtiers, who reintroduced artistic, educational and scholarly debate from classical antiquity. England began to develop naval skills, and exploration to the West intensified.\nCompeting with Spain, the first English colony in the Americas was founded in 1585 by explorer Walter Raleigh in Virginia and named Roanoke. The Roanoke colony failed and is known as the lost colony after it was found abandoned on the return of the late-arriving supply ship. With the East India Company, England also competed with the Dutch and French in the East.\nIn 1666 the Great Fire of London gutted the City of London but it was rebuilt shortly afterwards with many significant buildings designed by Christopher Wren. In Parliament two factions had emerged – the Tories and Whigs. Though the Tories initially supported Catholic king James II, some of them, along with the Whigs, during the Revolution of 1688 invited Dutch prince William of Orange to defeat James and ultimately to become William III of England. Some English people, especially in the north, were Jacobites and continued to support James and his sons.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/early_modern_era_of_england.jpg?raw=true",
+        "sourceUrl": "https://en.wikipedia.org/wiki/England",
+        "subCategory": "",
+        "isSubCategory": false
+    },
+    {
+        "id": 23,
+        "title": "History of Spain",
+        "category": "Countries",
+        "textInfo": "The history of Spain dates to the pre-Roman peoples of the Mediterranean coast of the Iberian Peninsula made contact with the Greeks and Phoenicians and the first writing systems known as Paleohispanic scripts were developed. During Classical Antiquity, the peninsula was the site of multiple successive colonizations of Greeks, Carthaginians, and Romans. Native peoples of the peninsula, such as the Tartessos people, intermingled with the colonizers to create a uniquely Iberian culture. The Romans referred to the entire Peninsula as Hispania, from where the modern name of Spain originates. The region was divided up, at various times, into different Roman provinces.\nVarious Germanic kingdoms were established on the Iberian peninsula in the early 5th century CE in the wake of the fall of Roman control; germanic control lasted about 200 years until the Umayyad conquest of Hispania began in 711 and marked the introduction of Islam to the Iberian Peninsula.\nThe early modern period is generally dated from the union of the Crowns of Castile and Aragon under the Catholic Monarchs, Isabella I of Castile and Ferdinand II of Aragon in 1469. This marked what is historiographically considered the foundation of unified Spain, although technically Castile and Aragon continued to maintain independent institutions for several centuries. The conquest of Granada, and the first voyage of Columbus, both in 1492, made that year a critical inflection point in Spanish history.\nThe twentieth century began for Spain in foreign and domestic turmoil; the Spanish-American War led to losses of Spanish colonial possessions and a series of military dictatorships, first under Miguel Primo de Rivera and secondly under Dámaso Berenguer. During Berenguer's dictatorship, the king, Alfonso XIII was deposed and a new Republican government was formed. Ultimately, the political disorder within Spain led to a coup by the military which led to the Spanish Civil War, in which the Republican forces squared off against the Nationalists. After much foreign intervention on both sides, the Nationalists emerged victorious thanks to the help provided by Nazi Germany and Italy, their leader Francisco Franco, who led a fascist dictatorship for almost four decades.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/history_of_spain.jpeg?raw=true",
+        "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Spain",
+        "subCategory": "",
+        "isSubCategory": false
+    },
+    {
+        "id": 24,
+        "title": "History of Germany",
+        "category": "Countries",
+        "textInfo": "Pre-human ancestors, who were present in Germany over 11 million years ago, are theorized to be among the earliest ones to walk on two legs. Ancient humans were present in Germany at least 600,000 years ago. The first non-modern human fossil (the Neanderthal) was discovered in the Neander Valley. Similarly dated evidence of modern humans has been found in the Swabian Jura, including 42,000-year-old flutes which are the oldest musical instruments ever found, the 40,000-year-old Lion Man, and the 35,000-year-old Venus of Hohle Fels. The Nebra sky disk, created during the European Bronze Age, has been attributed to a German site.\nThe Germanic tribes are thought to date from the Nordic Bronze Age or the Pre-Roman Iron Age. From southern Scandinavia and north Germany, they expanded south, east, and west, coming into contact with the Celtic, Iranian, Baltic, and Slavic tribes.\nCharlemagne founded the Carolingian Empire in 800; it was divided in 843. The eastern successor kingdom of East Francia stretched from the Rhine in the west to the Elbe river in the east and from the North Sea to the Alps. Subsequently, the Holy Roman Empire emerged from it. The Ottonian rulers (919–1024) consolidated several major duchies.\nFollowing the fall of Napoleon, the Congress of Vienna founded the German Confederation, a loose league of 39 sovereign states. The appointment of the Emperor of Austria as the permanent president reflected the Congress's rejection of Prussia's rising influence. Disagreement within restoration politics partly led to the rise of liberal movements, followed by new measures of repression by Austrian statesman Klemens von Metternich. The Zollverein, a tariff union, furthered economic unity.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/history_of_germany.jpeg?raw=true",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Germany",
+        "subCategory": "",
+        "isSubCategory": false
+    },
+    {
+        "id": 25,
+        "title": "History of Indian Civilization",
+        "category": "Civilization",
+        "textInfo": "According to consensus in modern genetics, anatomically modern humans first arrived on the Indian subcontinent from Africa between 73,000 and 55,000 years ago. However, the earliest known human remains in South Asia date to 30,000 years ago. Settled life, which involves the transition from foraging to farming and pastoralism, began in South Asia around 7000 BCE.\nEarly on in the second millennium BCE, persistent drought caused the population of the Indus Valley to scatter from large urban centres to villages. Around the same time, Indo-Aryan tribes moved into the Punjab from Central Asia in several waves of migration. Their Vedic Period (1500–500 BCE) was marked by the composition of the Vedas, large collections of hymns of these tribes.\nMost of the Indian subcontinent was conquered by the Maurya Empire during the 4th and 3rd centuries BCE. From the 3rd century BCE onwards, Prakrit and Pali literature in the north and Tamil Sangam literature in southern India started to flourish. Wootz steel originated in south India in the 3rd century BCE and was exported. The Maurya Empire would collapse in 185 BCE, on the assassination of the then-Emperor Brihadratha by his General Pushyamitra Shunga. Shunga would go on to form the Shunga Empire in the North and Northeast of the subcontinent, while the Greco-Bactrian Kingdom would claim the Northwest, and found the Indo-Greek Kingdom.\nThe most significant event between the 7th and 11th century was the Tripartite struggle centred on Kannauj that lasted for more than two centuries between the Pala Empire, Rashtrakuta Empire, and Gurjara-Pratihara Empire. Southern India saw the rise of multiple imperial powers from the middle of the fifth century, most notably the Chalukya, Chola, Pallava, Chera, Pandyan, and Western Chalukya Empires. The Chola dynasty conquered southern India and successfully invaded parts of Southeast Asia, Sri Lanka, the Maldives, and Bengal in the 11th century. In the early medieval period Indian mathematics, including Hindu numerals, influenced the development of mathematics and astronomy in the Arab world.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/history_of_indian_civilization.JPG?raw=true",
+        "sourceUrl": "https://en.wikipedia.org/wiki/History_of_India",
+        "subCategory": "",
+        "isSubCategory": false
+    },
+    {
+        "id": 26,
+        "title": "History of Egypt Civilization",
+        "category": "Civilization",
+        "textInfo": "Ancient Egypt was a civilization in ancient Northeast Africa, situated in the Egyptian Nile Valley in Egypt. Ancient Egyptian civilization followed prehistoric Egypt and coalesced around 3100 BC (according to conventional Egyptian chronology)with the political unification of Upper and Lower Egypt under Menes (often identified with Narmer). The history of ancient Egypt occurred as a series of stable kingdoms, separated by periods of relative instability known as Intermediate Periods: the Old Kingdom of the Early Bronze Age, the Middle Kingdom of the Middle Bronze Age and the New Kingdom of the Late Bronze Age.\nEgypt reached the pinnacle of its power in the New Kingdom, ruling much of Nubia and a sizable portion of the Near East, after which it entered a period of slow decline. During the course of its history Egypt was invaded or conquered by a number of foreign powers, including the Hyksos, the Libyans, the Nubians, the Assyrians, the Achaemenid Persians, and the Macedonians under the command of Alexander the Great. The Greek Ptolemaic Kingdom, formed in the aftermath of Alexander's death, ruled Egypt until 30 BC, when, under Cleopatra, it fell to the Roman Empire and became a Roman province.\nThe success of ancient Egyptian civilization came partly from its ability to adapt to the conditions of the Nile River valley for agriculture. The predictable flooding and controlled irrigation of the fertile valley produced surplus crops, which supported a more dense population, and social development and culture.\nThe many achievements of the ancient Egyptians include the quarrying, surveying, and construction techniques that supported the building of monumental pyramids, temples, and obelisks; a system of mathematics, a practical and effective system of medicine, irrigation systems, and agricultural production techniques, the first known planked boats, Egyptian faience and glass technology, new forms of literature, and the earliest known peace treaty, made with the Hittites. Ancient Egypt has left a lasting legacy. Its art and architecture were widely copied, and its antiquities were carried off to far corners of the world. Its monumental ruins have inspired the imaginations of travelers and writers for millennia. A newfound respect for antiquities and excavations in the early modern period by Europeans and Egyptians led to the scientific investigation of Egyptian civilization and a greater appreciation of its cultural legacy.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/history_of_egypt_civilization.jpg?raw=true",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+        "subCategory": "",
+        "isSubCategory": false
+    },
+    {
+        "id": 27,
+        "title": "Harappa Civilization",
+        "category": "Civilization",
+        "textInfo": "Harappa is an archaeological site in Punjab, Pakistan, about 24 km (15 mi) west of Sahiwal. The Bronze Age Harappan civilisation, now more often called the Indus Valley Civilisation, is named after the site, which takes its name from a modern village near the former course of the Ravi River, which now runs 8 km (5.0 mi) to the north. The core of the Harappan civilization extended over a large area, from Gujarat in the south, across Sindh and Rajasthan and extending into Punjab and Haryana. Numerous sites have been found outside the core area, including some as far east as Uttar Pradesh and as far west as Sutkagen-dor on the Makran coast of Baluchistan, not far from Iran.\nThe site of the ancient city contains the ruins of a Bronze Age fortified city, which was part of the Harappan civilisation centred in Sindh and the Punjab, and then the Cemetery H culture. The city is believed to have had as many as 23,500 residents and occupied about 150 hectares (370 acres) with clay brick houses at its greatest extent during the Mature Harappan phase (2600 BC – 1900 BC), which is considered large for its time. Per archaeological convention of naming a previously unknown civilisation by its first excavated site, the Indus Valley Civilisation is also called the Harappan Civilisation.\nThe ancient city of Harappa was heavily damaged under British rule, when bricks from the ruins were used as track ballast in the construction of the Lahore–Multan Railway. The current village of Harappa is less than 1 km (0.62 mi) from the ancient site. Although modern Harappa has a legacy railway station from the British Raj period, it is a small crossroads town of 15,000 people today. In 2005, a controversial amusement park scheme at the site was abandoned when builders unearthed many archaeological artefacts during the early stages of building work.",
+        "imageUrl": "https://github.com/rukahtka/Demo/blob/main/ImageAndJson/images/history_of_harappa_civilization.jpg?raw=true",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Harappa",
+        "subCategory": "",
+        "isSubCategory": false
+    }
+]
