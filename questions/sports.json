@@ -1,0 +1,232 @@
+[
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "After how many Year’s FIFA World Cup is held?",
+    "correct_answer": "4 Years",
+    "incorrect_answers": [
+      "2 Years",
+      "3 Years",
+      "Every Year"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Country won the first FIFA World Cup?",
+    "correct_answer": "Uruguay",
+    "incorrect_answers": [
+      "Argentina",
+      "Italy",
+      "Brazil"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the first ICC World Cup?",
+    "correct_answer": "West Indies",
+    "incorrect_answers": [
+      "India",
+      "England",
+      "Australia"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the first T20 World Cup?",
+    "correct_answer": "India",
+    "incorrect_answers": [
+      "Pakistan",
+      "Sri Lanka",
+      "West Indies"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is known as the Flying Sikh?",
+    "correct_answer": "Milkha Sing",
+    "incorrect_answers": [
+      "Michael Johnson",
+      "Usain Bolt",
+      "Carl Lewis"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who has the Highest Number of Gold Medals in Olympic History?",
+    "correct_answer": "Michael Phelps",
+    "incorrect_answers": [
+      "Larisa Latynina",
+      "Mark Spitz",
+      "Saina Nehwal"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the 100m World Record of Usain Bolt?",
+    "correct_answer": "9.58 Sec",
+    "incorrect_answers": [
+      "14.35 Sec",
+      "9.05 Sec",
+      "10.12 Sec"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the Women’s World Record of the 100-Meter Dash?",
+    "correct_answer": "10.49 Sec",
+    "incorrect_answers": [
+      "12.35 Sec",
+      "10.45 Sec",
+      "9.55 Sec"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where is the Famous Boxer Mary Kom from?",
+    "correct_answer": "Manipur",
+    "incorrect_answers": [
+      "Mizoram",
+      "Nagaland",
+      "Tripura"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Female has the Most Olympic Gold Medals in Olympic History?",
+    "correct_answer": "Larisa Latynina",
+    "incorrect_answers": [
+      "Birgit Fischer",
+      "Marit Bjørgen",
+      "Jenny Thompson"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Michael Phelps is known as 'The Baltimore Bullet'",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is the first Indian Badminton Player to win an Olympic Medal?",
+    "correct_answer": "Saina Nehwal",
+    "incorrect_answers": [
+      "Srikanth Kidambi",
+      "P.V. Sindhu",
+      "P.V. Nehwal"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Sport is Performed by the Legend 'Muhammad Ali'?",
+    "correct_answer": "Boxing",
+    "incorrect_answers": [
+      "Weight Lifting",
+      "Swiming",
+      "Shooting"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The FIFA World Cup was first held in 1938.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Cristiano Ronaldo join Juventus Football Club in 2017.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "England has Won the Most World Snooker Championship.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the FIFA World Cup in 2018?",
+    "correct_answer": "France",
+    "incorrect_answers": [
+      "Germany",
+      "Portugal",
+      "Uraguay"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is the Undisputed World Chess Champion from 2007–2013?",
+    "correct_answer": "Viswanathan Anand",
+    "incorrect_answers": [
+      "Vladimir Kramnik",
+      "Magnus Carlsen",
+      "Veselin Topalov"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Magnus Carlsen from Norway.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the Full Name of the Famous Football Player Ronaldo?",
+    "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+    "incorrect_answers": [
+      "Cristiano Santos Ronaldo",
+      "Cristiano Ronaldo Santos Aveiro",
+      "Cristiano dos Ronaldo"
+    ]
+  }
+]

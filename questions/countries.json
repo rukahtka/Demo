@@ -1,0 +1,233 @@
+
+[
+  {
+    "category": "Countries",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "During the First World War, which country signed the Peace Treaty (1917) with Germany?",
+    "correct_answer": "Russia",
+    "incorrect_answers": [
+      "England",
+      "USA",
+      "Austria"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When did United Kingdom declared war on Germany which lead to World War II?",
+    "correct_answer": "3rd September 1939",
+    "incorrect_answers": [
+      "4th April 1939",
+      "18th August 1939",
+      "28th August 1939"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When was ancient Rome founded?",
+    "correct_answer": "753 BC",
+    "incorrect_answers": [
+      "776 BC",
+      "752 BC",
+      "742 BC"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When was NATO signed?",
+    "correct_answer": "1949",
+    "incorrect_answers": [
+      "1990",
+      "1948",
+      "1950"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which year, Alexander the Great become the king of Macedonia?",
+    "correct_answer": "336 BC",
+    "incorrect_answers": [
+      "323 BC",
+      "350 BC",
+      "200 BC"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Mountain’s volcano buried Pompeii city with ash in 79 AD?",
+    "correct_answer": "Mount Vesuvius",
+    "incorrect_answers": [
+      "Mount Pelee",
+      "Mount Tambora",
+      "Mount Etna"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Queen Elizabeth I of England belongs to which dynasty?",
+    "correct_answer": "Tudor",
+    "incorrect_answers": [
+      "Stuart",
+      "York",
+      "Normandy"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which one was the capital city of Byzantine Empire?",
+    "correct_answer": "Constantinople",
+    "incorrect_answers": [
+      "Venice",
+      "Rome",
+      "Vienna"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the King of Britain during the First World War ?",
+    "correct_answer": "George V",
+    "incorrect_answers": [
+      "Philip I",
+      "Anarew VIII",
+      "Jonn Vll"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was popularly known as Africa’s Gandhi?",
+    "correct_answer": "Nelson Mandela",
+    "incorrect_answers": [
+      "Mir Karzai",
+      "Firoz Gandhi",
+      "M.K.Gandhi"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "In 1804 Napoleon I crowned himself as Emperor of France.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who united Norway, Denmark and, Sweden?",
+    "correct_answer": "Margaret I of Denmark",
+    "incorrect_answers": [
+      "Albert King of Sweden",
+      "Eric of Pomerania",
+      "Haakon VI of Norway"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The policy of racial discrimination followed in South Africa was called?",
+    "correct_answer": "Apartheid",
+    "incorrect_answers": [
+      "Non-Aligned",
+      "Civil Rights Movement",
+      "Suffrage"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Marco Polo was a traveller from Spain.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The Second World War started in the year 1942.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The tomb of Tutankhamun was discovered by Howard Carter and George Herbert.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which two countries were involved in a Hundred Years War?",
+    "correct_answer": "England and France",
+    "incorrect_answers": [
+      "Turkey and Austria",
+      "Palestine and Israel",
+      "Germany and Russia"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which European country feudalism process was first started?",
+    "correct_answer": "French",
+    "incorrect_answers": [
+      "Italy",
+      "England",
+      "Russia"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "In year 1789 George Washington became the first president of USA.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Countries",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Aztec civilization was originated in which country?",
+    "correct_answer": "Mexico",
+    "incorrect_answers": [
+      "USA",
+      "Greece",
+      "Egypt"
+    ]
+  }
+]

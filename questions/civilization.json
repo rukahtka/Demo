@@ -1,0 +1,233 @@
+
+[
+  {
+    "category": "Civilization",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What structure was built during the Old Kingdom in Egypt?",
+    "correct_answer": "The Sphinx",
+    "incorrect_answers": [
+      "The Temple of Queen Nzingha",
+      "The Tower of Babel",
+      "The Pyramids of Judah"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these was not an ancient Phoenician city?",
+    "correct_answer": "Madrid",
+    "incorrect_answers": [
+      "Sidon",
+      "Tyre",
+      "Berot"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these was not an ancient Phoenician deity?",
+    "correct_answer": "Jupiter",
+    "incorrect_answers": [
+      "Moloch",
+      "Astarte",
+      "Baal"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who colonized Tunisia in ancient times?",
+    "correct_answer": "Phoenicians",
+    "incorrect_answers": [
+      "Philistines",
+      "Pyrgamese",
+      "Palmyrans"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these is an early period in the Bronze Age?",
+    "correct_answer": "Chalcolithic",
+    "incorrect_answers": [
+      "Paleolithic",
+      "Eolithic",
+      "Prolithic"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What word means 'of the Middle Ages'?",
+    "correct_answer": "medieval",
+    "incorrect_answers": [
+      "mediocre",
+      "metal",
+      "medial"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where did the ancient Phoenicians live?",
+    "correct_answer": "Phoenicia",
+    "incorrect_answers": [
+      "Portugal",
+      "Phrygia",
+      "Phoenix"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which was not an achievement of ancient Egyptians?",
+    "correct_answer": "golf",
+    "incorrect_answers": [
+      "medicine",
+      "architecture",
+      "mathematics"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The Stone Age is called that because of its:",
+    "correct_answer": "abundance of stone tools",
+    "incorrect_answers": [
+      "scarcity of stones (used as money)",
+      "abundance of stone statues",
+      "abundance of stone houses"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Highly respected and loved, what animal had considerable importance in ancient Egypt?",
+    "correct_answer": "Cat",
+    "incorrect_answers": [
+      "Horse",
+      "Deer",
+      "Bear"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The civilization of Ancient Mesopotamia grew up along the banks of two great rivers, the Euphrates and the Tigris.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which ancient civilization was the first to use democracy?",
+    "correct_answer": "Ancient Greece",
+    "incorrect_answers": [
+      "Ancient Rome",
+      "The Persian Civilization",
+      "The Aztec Civilization"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The calendar of which ancient civilization is thought to have predicted the end of the world?",
+    "correct_answer": "The Mayan civilization",
+    "incorrect_answers": [
+      "Ancient Greece",
+      "The Chinese civilization",
+      "Ancient Romans"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The Aztecs actually called themselves the Mexica.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Aztec Empire is known for creating one of the world's first laws in history.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Cyrus The Great is credited as the founder of the Persian civilization.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many of the Seven Wonders of the Ancient World still exist?",
+    "correct_answer": "One",
+    "incorrect_answers": [
+      "Three",
+      "Five",
+      "None"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How was the ancient Roman city of Pompeii destroyed?",
+    "correct_answer": "Volcano",
+    "incorrect_answers": [
+      "Flood",
+      "Tsunami",
+      "Drought"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Tenochtitlan was a massive capital city in Aztec.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Civilization",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was one of the Inca cities which was situated at a height of nearly 3500 meters?",
+    "correct_answer": "Machu Picchu",
+    "incorrect_answers": [
+      "Cusco",
+      "Tiwanaku",
+      "Ollantaytambo"
+    ]
+  }
+]

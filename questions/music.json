@@ -1,0 +1,233 @@
+
+[
+  {
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was awarded the very first gold record?",
+    "correct_answer": "Perry Como",
+    "incorrect_answers": [
+      "The Beatles",
+      "Elvis Presley",
+      "Nat King Cole"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What pop singer is known as 'The Material Girl'?",
+    "correct_answer": "Madonna",
+    "incorrect_answers": [
+      "Christina Aguilera",
+      "Taylor Swift",
+      "Britney Spears"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How much pressure do the strings in a grand piano exert on the frame?",
+    "correct_answer": "30 Tons",
+    "incorrect_answers": [
+      "3 Tons",
+      "30 Lbs",
+      "300 Lbs"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the oldest surviving musical instrument?",
+    "correct_answer": "Flute",
+    "incorrect_answers": [
+      "Lyre",
+      "Trumpet",
+      "Drum"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What singer holds the world record for most words in a hit single?",
+    "correct_answer": "Eminem",
+    "incorrect_answers": [
+      "50 Cent",
+      "Kanye West",
+      "Busta Rhymes"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What instrument is used by the indigenous people of Australia to accompany ceremonial dancing and singing?",
+    "correct_answer": "Didgeridoo",
+    "incorrect_answers": [
+      "Yabahar",
+      "Hydraulophone",
+      "Zeusaphone"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many pieces of wood are there in a modern violin?",
+    "correct_answer": "70",
+    "incorrect_answers": [
+      "15",
+      "2",
+      "30"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many notes are included in a chromatic scale?",
+    "correct_answer": "12",
+    "incorrect_answers": [
+      "6",
+      "5",
+      "8"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the longest running stage musical?",
+    "correct_answer": "The Fantasticks",
+    "incorrect_answers": [
+      "Cats",
+      "Phantom of the Opera",
+      "Chicago"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following was NOT a founding member of the UK Music Hall of Fame?",
+    "correct_answer": "David Bowie",
+    "incorrect_answers": [
+      "Madonna",
+      "Elvis Presley",
+      "Bob Marley"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Music from the Renaissance period is grouped into two categories: Sacred music and Secular music.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the band known as Linkin Park originally called?",
+    "correct_answer": "Xero",
+    "incorrect_answers": [
+      "Hybrid Theory",
+      "Reanimators",
+      "Meteora"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which musical term means to play a piece of music lively and fast?",
+    "correct_answer": "Allegro",
+    "incorrect_answers": [
+      "Cadenza",
+      "Castrato",
+      "Adagio"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The early music of the medieval church existed in the form of Gregorian chants. These chants are monophonic and instrumental.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Ritornello is an unique feature of Baroque music is typically played on the harpsichord and doubled on the 'cello.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "There are six music periods that are typically studied",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which composer is not from the classical period?",
+    "correct_answer": "Herbert Gronemeyer",
+    "incorrect_answers": [
+      "W.A. Mozart",
+      "Joseph Haydn",
+      "J.C. Bach"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Christoph Gluck's 'O Del Nio Dolce Ardor' is an example of a(n)?",
+    "correct_answer": "Aria",
+    "incorrect_answers": [
+      "Opera",
+      "Cantata",
+      "Libretto"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Gregorian Chants was popular during medieval period.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "20th century rock music is influenced by these styles?",
+    "correct_answer": "R&B and Country",
+    "incorrect_answers": [
+      "Jazz",
+      "Gregorian and Plainchant",
+      "It is not influenced by any styles"
+    ]
+  }
+]
